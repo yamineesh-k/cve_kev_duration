@@ -16,3 +16,6 @@
 
 
 
+<img width="325" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/49cb13d1-0a3f-4b4b-809e-446180231819">
+
+
