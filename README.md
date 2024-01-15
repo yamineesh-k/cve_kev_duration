@@ -1,5 +1,5 @@
-# CVE 'Published' to KEV 'Added Date': Duration Analysis 
- Analysis of the Duration between when a CV is Published and when it is added to a KEV
+# CVE to KEV 
+ Assessing the Lag Between Vulnerability Disclosure and Knowledge Base Integration
 
 
  <img width="344" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/f27bc9f1-1082-4265-a331-c55179e2d611">
