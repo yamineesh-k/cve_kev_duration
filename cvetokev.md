@@ -3,7 +3,9 @@
 
 **INTRODUCTION**
 
-In the ever-evolving landscape of cybersecurity, staying ahead of emerging threats is crucial. Patching critical vulnerabilities is paramount, but understanding the timeline from discovery to exploitation is equally important. This article delves into the journey of Common Vulnerabilities and Exposures (CVEs) from the National Vulnerability Database (NVD) to Known Exploited Vulnerabilities (KEV), focusing on the time it takes for this transition – a metric i call "_DaystoKEV_".
+In the ever-evolving landscape of cybersecurity, staying ahead of emerging threats is crucial. Patching critical vulnerabilities is paramount, but understanding the timeline from discovery to exploitation is equally important. This article delves into the journey of Common Vulnerabilities and Exposures (CVEs) from the National Vulnerability Database (NVD) to Known Exploited Vulnerabilities (KEV), focusing on the time it takes for this transition – a metric i call "_DaystoKEV_". Here is how a typical process looks, at a High Level.
+
+<img width="351" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/9ef1750a-2acc-4008-b154-5c577b64fb66">
 
 
  <img width="344" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/f27bc9f1-1082-4265-a331-c55179e2d611">
