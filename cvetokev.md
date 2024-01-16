@@ -1,4 +1,4 @@
-# CVE to KEV 
+# From Discovery to Exploit
  _Assessing the Lag Between Vulnerability Disclosure and Knowledge Base Integration_
 
 **INTRODUCTION**
