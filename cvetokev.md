@@ -3,25 +3,31 @@
 
 **INTRODUCTION**
 
-In the ever-evolving landscape of cybersecurity, staying ahead of emerging threats is crucial. Patching critical vulnerabilities is paramount, but understanding the timeline from discovery to exploitation is equally important. This article delves into the journey of Common Vulnerabilities and Exposures (CVEs) from the National Vulnerability Database (NVD) to Known Exploited Vulnerabilities (KEV), focusing on the time it takes for this transition – a metric i call "_DaystoKEV_". Here is how a typical process looks, at a High Level.
-
-<img width="351" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/9ef1750a-2acc-4008-b154-5c577b64fb66">
-
-
- <img width="344" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/f27bc9f1-1082-4265-a331-c55179e2d611">
- 
-
-
-<img width="541" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/52b3627e-eac9-4a72-8281-d338b9fc75b1">
-
-
-<img width="594" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/2f79f453-6683-4ab9-9262-0d1aa5b395c6">
-
-
-<img width="310" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/3d6302b6-ae12-417c-98e8-70deae9600b6">
-
-
-
-<img width="325" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/49cb13d1-0a3f-4b4b-809e-446180231819">
-
-
+<p align="justify">
+In the ever-evolving landscape of cybersecurity, staying ahead of emerging threats is crucial. Patching critical vulnerabilities is paramount, but understanding the timeline from discovery to exploitation is equally important. This article delves into the journey of Common Vulnerabilities and Exposures (CVEs) from the National Vulnerability Database (NVD) to Known Exploited Vulnerabilities (KEV), focusing on the time it takes for this transition – a metric we refer to as 'DaystoKEV' in this article. Here is how a typical process to add a CVE to the KEV looks, at a High Level.
+</p>
+<br>
+<p align="center">
+<img width="480" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/1d7c084e-802b-4555-be0a-48dfb45bc5a9">
+</p>
+<br>
+CALCULATING DAYS TO KEV
+<br>
+<p align="justify">
+To calculate the 'DaystoKEV', the NVD CVE Data and KEV Data were merged and the difference between 'Published' date from the CVE data and 'Date Added' from the KEV data, in days was calculated. The distribution of 'DaystoKev', as visualized below is skewed to the right, suggesting a majority of KEVs having lower values, with peak around 0-1000 days. There is also huge variability in the values and includes values below 0.
+</p>
+<br>
+TREND AND TIME DISTRIBUTION
+<br>
+<p align="center">
+ <img width="400" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/d0379b0b-b21d-4019-93f2-18aaa6639ac4">
+	</p>
+<br>
+<p align="center">
+<img width="590" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/19b4dee3-b7ad-4f9b-a24f-c8782d89408b">
+</p>
+<br>
+<p align="center">
+<img width="590" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/fb0e5701-dd52-4c71-bd57-804609ff7799">
+</p>
+<br>
