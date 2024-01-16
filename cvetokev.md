@@ -1,9 +1,9 @@
 # CVE to KEV 
- Assessing the Lag Between Vulnerability Disclosure and Knowledge Base Integration
+ _Assessing the Lag Between Vulnerability Disclosure and Knowledge Base Integration_
 
 **INTRODUCTION**
 
-In the ever-evolving landscape of cybersecurity, staying ahead of emerging threats is crucial. Patching critical vulnerabilities is paramount, but understanding the timeline from discovery to exploitation is equally important. This article delves into the journey of Common Vulnerabilities and Exposures (CVEs) from the National Vulnerability Database (NVD) to Known Exploited Vulnerabilities (KEV), focusing on the time it takes for this transition – a metric i refer call "DaystoKEV".
+In the ever-evolving landscape of cybersecurity, staying ahead of emerging threats is crucial. Patching critical vulnerabilities is paramount, but understanding the timeline from discovery to exploitation is equally important. This article delves into the journey of Common Vulnerabilities and Exposures (CVEs) from the National Vulnerability Database (NVD) to Known Exploited Vulnerabilities (KEV), focusing on the time it takes for this transition – a metric i call "_DaystoKEV_".
 
 
  <img width="344" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/f27bc9f1-1082-4265-a331-c55179e2d611">
