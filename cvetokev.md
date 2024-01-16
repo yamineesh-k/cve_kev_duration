@@ -1,4 +1,4 @@
-# From Discovery to Exploit
+# Vulnerabilities: From Discovery to Exploit
  _Assessing the Lag Between Vulnerability Disclosure and Knowledge Base Integration_
 
 **INTRODUCTION**
