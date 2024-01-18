@@ -4,7 +4,7 @@
 **INTRODUCTION**
 
 <p align="justify">
-Delving into process lifecycles and understanding the forces shaping each stage is always interesting. This article explores the journey of Common Vulnerabilities and Exposures (CVEs) from the National Vulnerability Database (NVD) to Known Exploited Vulnerabilities (KEV), focusing on the time it takes for this transition – a metric referred to as 'DaystoKEV', in this article. Though both NVD and CISA have different analysis goals, the journey of a CVE from NVD to KEV looks the below, at a High Level. Steps 3,4 and 5 are independent processes and need not happen in sequence.
+Delving into process lifecycles and understanding the forces shaping each stage is always interesting. This article explores the journey of Common Vulnerabilities and Exposures (CVEs) from the National Vulnerability Database (NVD) to Known Exploited Vulnerabilities (KEV), focusing on the time it takes for this transition – a metric referred to as 'DaystoKEV', in this article. Though both NVD and CISA have different analysis goals, the journey of a CVE from NVD to KEV looks like below , at a High Level. Steps 3,4 and 5 are independent processes and need not happen in sequence.
 </p>
 <p align="center">
 <img width="480" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/1d7c084e-802b-4555-be0a-48dfb45bc5a9">
