@@ -83,7 +83,7 @@ In this last section, the focus is on investigating if a 'vendor' or the 'month'
 While the model only moderately explains the variance in 'DaystoKEV', indicating other features need to be included, there were some significant factors and interactions that were identified in driving the 'DaystoKev' to be longer. The strongest of these factors from a Vendor (with atleast 10 KEVs) factor are Adobe, Oracle and Linux. The same vendor in a different order- Oracle, Adobe and Linux have strong influence of the calendar month, meaning, if a CVE is published later in the year, it is likely to take relatively longer to be added to the KEV than the start of the year.  
 <br>
 <br>
-It is important to recognize that meaningful insights often emerge from constantly exploring diverse interpretations of the data and this article is one such attempt.
+It is important to recognize that meaningful insights often emerge from constantly exploring diverse interpretations of the data and this project is one such attempt.
 </p>
 <br>
 <br>
