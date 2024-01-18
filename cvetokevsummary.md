@@ -74,17 +74,21 @@ There were 5 distinct clusters observed from the KEV data. When visualized on a 
 <br>
 <br>
 <p align="justify">
-In this last section, the focus is on investigating if a 'vendor' or the 'month' when a CVE is published has any influence on the 'DaystoKEV'. An ordinary least squares (OLS) linear regression model was used to fit this theory. 
+In this last section, the focus is on investigating if a 'vendor' or the 'month' when a CVE is published has any influence on the 'DaystoKEV'. An ordinary least squares (OLS) linear regression model was used to fit this theory. The python notebook in this repository has details on the model performance. The below plot was generated using the 'Key Influencers' visualization in Power and the findings are consistent with the OLS model. 
 </p>
 <p align="center">
-<img width="400" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/006aa12e-ebba-4a60-bb57-cd41aaece0c3">
+<img width="600" alt="image" src="https://github.com/yamineesh-k/cve_kev_duration/assets/76024628/e6750fd2-ea51-4341-80c5-c6861ffa2096">
 </p>
-<br>
 <p align="justify">
 While the model only moderately explains the variance in 'DaystoKEV', indicating other features need to be included, there were some significant factors and interactions that were identified in driving the 'DaystoKev' to be longer. The strongest of these factors from a Vendor (with atleast 10 KEVs) factor are Adobe, Oracle and Linux. The same vendor in a different order- Oracle, Adobe and Linux have strong influence of the calendar month, meaning, if a CVE is published later in the year, it is likely to take relatively longer to be added to the KEV than the start of the year.  
 <br>
-It is important to recognize that meaningful insights often emerge from constantly exploring diverse angles and interpretations of the data.
+<br>
+It is important to recognize that meaningful insights often emerge from constantly exploring diverse interpretations of the data and this article is one such attempt.
 </p>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
