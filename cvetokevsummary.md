@@ -93,6 +93,11 @@ It is important to recognize that meaningful insights often emerge from constant
 <br>
 <br>
 <br>
+<p align="justify">
+<strong>Disclaimer:</strong> There is a potential 'distance distortion' problem with this approach of using a simple encoding for the 'Vendor' category when using K Means Clustering. Though this approach uses standard scaling ( mean of 0 and a standard deviation of 1), to prevent larger encoded values from dominating the distance calculations, it is still a partial mitigation. The focus was to start simple, retain the interpretability and visualize the clusters. Considering the small size of the data (1100 rows) and the distinct final clusters identified, this approach is a good initial analysis, not the optimal.
+<br>
+<strong>Next Steps:</strong> Add EPSS as a feature. Experiment with using One Hot encoding, K-modes instead of K-Means and explore other distance metrics like Hamming to optimize the clusters further.
+</p>
 <br>
 <br>
 <br>
